@@ -19,10 +19,15 @@ My goal is to deploy the application in a Docker Container, to do it I did the f
     docker logs mytestcontainer
 
     ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+    
     ✔ Compiled successfully.
+    
     ✔ Browser application bundle generation complete.
+    
     5 unchanged chunks
+    
     Build at: 2022-04-15T18:29:30.778Z - Hash: 06875e2952c4212d - Time: 398ms
+    
     ✔ Compiled successfully.
     
  5. I can't run the application from my browser
