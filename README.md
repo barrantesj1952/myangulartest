@@ -1,6 +1,8 @@
 # Myangulartest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+The application works fine running in the ## Development server   
+Run `ng serve -o` for a dev server
 
 ## Development server
 
