@@ -33,7 +33,7 @@ My goal is to deploy the application in a Docker Container, to do it I did the f
  5. I can't run the application from my browser
     - http://localhost:4200/   
     
-    Neither as expose port expecified in the dockerfile 
+    Neither with the expose port expecified in the dockerfile 
     - http://localhost:3200/
    
     
