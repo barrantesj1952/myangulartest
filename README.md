@@ -15,7 +15,7 @@ My goal is to deploy the application in a Docker Container, to do it I did the f
     docker run -td --name mytestcontainer mytest:1.0
  
  4. The logs shows the web application started but I can't fine to execute it from my localhost outside the container
- 5. 
+ 
     docker logs mytestcontainer
 
     ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
